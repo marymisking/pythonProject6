@@ -1,1 +1,1 @@
-print('это пойдёт в gitignore')
+print('это пойдёт в gitignore, должно добавиться')
